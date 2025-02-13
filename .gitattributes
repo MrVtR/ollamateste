@@ -3,3 +3,4 @@ manifests filter=lfs diff=lfs merge=lfs -text
 blobs/** filter=lfs diff=lfs merge=lfs -text
 manifests/** filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
+deep8/** filter=lfs diff=lfs merge=lfs -text
